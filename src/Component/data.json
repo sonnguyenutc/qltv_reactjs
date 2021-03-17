@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name":"Son",
+        "tel": "09998889",
+        "permission": "1"
+    },
+    {
+        "id": 1,
+        "name":"Trung",
+        "tel": "03993859",
+        "permission": "2"
+    },
+    {
+        "id": 2,
+        "name":"Nghia",
+        "tel": "02223355",
+        "permission": "2"
+    },
+    {
+        "id": 3,
+        "name":"Thien",
+        "tel": "112220033",
+        "permission": "3"
+    },
+    {
+        "id": 4,
+        "name":"Hoang",
+        "tel": "112999220033",
+        "permission": "3"
+    },
+    {
+        "id": 5,
+        "name":"Son12",
+        "tel": "022889",
+        "permission": "1"
+    }
+]
